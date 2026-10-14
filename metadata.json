@@ -1,0 +1,6 @@
+{
+  "name": "Kifaru Trails Safaris",
+  "description": "Boutique, family-run safari operator based in Nairobi, Kenya. Tailored wildlife adventures across Maasai Mara, Amboseli, Tsavo, and Diani Beach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
